@@ -1,12 +1,13 @@
 $(document).ready(function(){
 
     var config = {
-        apiKey: "AIzaSyCPhE4ibN8RXy4MrfXnXUQeG5PUM0zqNfI",
-        authDomain: "fir-todo-list-tutorial.firebaseapp.com",
-        databaseURL: "https://fir-todo-list-tutorial.firebaseio.com",
-        projectId: "fir-todo-list-tutorial",
-        storageBucket: "fir-todo-list-tutorial.appspot.com",
-        messagingSenderId: "535305407723"
+        apiKey: "AIzaSyANueGIlPh0aSVOS7cKseMKC39xhAsl3JM",
+      authDomain: "homepage-c3b5e.firebaseapp.com",
+      projectId: "homepage-c3b5e",
+      storageBucket: "homepage-c3b5e.appspot.com",
+      messagingSenderId: "313476801849",
+      appId: "1:313476801849:web:dec2a5f71d273e05d634e8",
+      measurementId: "G-B3XMV4KECF"
     };
     firebase.initializeApp(config);
 
